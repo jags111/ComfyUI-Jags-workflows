@@ -3,10 +3,13 @@ OPEN POSE work
 <br>
 <img src = "Jags_DWopenposeHztl_experiments003.png" width = "50%">
 <br>
+
 <img src = "openP_up00_00002_.png" width = "50%">
 <br>
+
 <img src = "DWPose00__00001_.png" width = "50%">
 <br>
+
 Need to install the DW preprocesser from comfyUI controlnet Auxilliaries github;
 Also will need the control net open pose model from huggingface repository for openposeXL2.safetensors for this to work.
 The model links are as noted here;
