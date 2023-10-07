@@ -17,6 +17,21 @@ An image of the openpose created using the preprocessor;
 <br>
 
 Need to install the DW preprocesser from comfyUI controlnet Auxilliaries github;
+
+<a href="https://github.com/Fannovel16/comfyui_controlnet_aux"> Fannovel16/comfyui_controlnet_aux </a>
+
+A special thanks to Fannovel for his awesome work and examples. Please install all dependencies as required or mentioned in the repo.
+
+All credit & copyright goes to https://github.com/lllyasviel.
+
+<b> Installation:
+
+Using ComfyUI Manager (recommended):
+
+Install ComfyUI Manager and do steps introduced there to install the repo.
+
+<b> MODEL NEEDS: 
+
 Also will need the control net open pose model from huggingface repository for openposeXL2.safetensors for this to work.
 The model links are as noted here;
 
