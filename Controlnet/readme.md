@@ -19,7 +19,11 @@ An image of the openpose created using the preprocessor;
 Need to install the DW preprocesser from comfyUI controlnet Auxilliaries github;
 Also will need the control net open pose model from huggingface repository for openposeXL2.safetensors for this to work.
 The model links are as noted here;
+
+
 <a href="https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0"> thibaud/controlnet-openpose-sdxl-1.0 </a>
 
-SDXL-controlnet: OpenPose (v2)
+<b> SDXL-controlnet: OpenPose (v2)
+
 These are controlnet weights trained on stabilityai/stable-diffusion-xl-base-1.0 with OpenPose (v2) conditioning. 
+
