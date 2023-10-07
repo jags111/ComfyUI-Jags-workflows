@@ -1,5 +1,11 @@
 # Custom Nodes, Extensions, and Tools for [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
+A node suite for ComfyUI with many new nodes, such as image processing, text processing, and more.
+Share Workflows to the workflows wiki. Preferably embedded PNGs with workflows, but JSON is OK too. You can use this tool to add a workflow to a PNG file easily.
+
+
+
+
 | Name | Description | Type |
 |------|-------------|------|
 | [A1111 Extension for ComfyUI](https://github.com/ModelSurge/sd-webui-comfyui) | sd-webui-comfyui is an extension for [Automatic1111's stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) that embeds ComfyUI in its own tab.  | **Other** |
