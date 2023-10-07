@@ -1,6 +1,6 @@
  <b> A collection of Controlnet based workflows 
  
-<b> OPEN POSE work
+<b> OPEN POSE work- note this model will work only for SDXL based models and not for SD 1.5 or other versions;
 
 <b> Just drag and drop the images into your comfyUI workflow canvas to make this work !
 
@@ -10,6 +10,8 @@
 
 <img src = "openP_up00_00002_.png" width = "50%">
 <br>
+
+An image of the openpose created using the preprocessor; 
 
 <img src = "DWPose00__00001_.png" width = "50%">
 <br>
