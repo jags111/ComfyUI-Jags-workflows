@@ -1,6 +1,9 @@
  <b> A collection of Controlnet based workflows 
+ 
 <b> OPEN POSE work
+
 <b> Just drag and drop the images into your comfyUI workflow canvas to make this work !
+
 <br>
 <img src = "Jags_DWopenposeHztl_experiments003.png" width = "50%">
 <br>
