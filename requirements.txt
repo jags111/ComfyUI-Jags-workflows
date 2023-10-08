@@ -4,4 +4,5 @@ https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes
 https://github.com/WASasquatch/FreeU_Advanced
 https://github.com/WASasquatch/was-node-suite-comfyui
 https://github.com/WASasquatch/comfyui-plugins
+https://github.com/EllangoK/ComfyUI-post-processing-nodes
 
